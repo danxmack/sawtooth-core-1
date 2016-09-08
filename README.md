@@ -1,6 +1,8 @@
 Sawtooth Lake
 =============
 
+[![Build Status](http://54.85.138.100/job/core-mack-pr/badge/icon)](http://54.85.138.100/job/core-mack-pr/)
+
 The Sawtooth Lake distributed ledger is a highly modular platform for building, deploying and
 running distributed ledgers.
 
