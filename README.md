@@ -5,6 +5,21 @@ TESTING A PR and GHPRB
 
 ***
 
+Testing 4 Status Icon Options
+
+ 1. with view
+
+[![Build Status](http://54.85.138.100/job/core-mack-pr/badge/icon)](http://54.85.138.100/job/core-mack-pr/)
+
+[![Build Status](http://54.85.138.100/buildStatus/icon?job=core-mack-pr)](http://54.85.138.100/job/core-mack-pr/)
+
+ 2. without view
+
+[![Build Status](http://54.85.138.100/job/core-mack-pr/badge/icon)](http://54.85.138.100/job/core-mack-pr)
+
+[![Build Status](http://54.85.138.100/buildStatus/icon?job=core-mack-pr)](http://54.85.138.100/job/core-mack-pr)
+
+
 The Sawtooth Lake distributed ledger is a highly modular platform for building, deploying and
 running distributed ledgers.
 
