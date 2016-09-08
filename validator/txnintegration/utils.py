@@ -295,7 +295,7 @@ def find_txn_validator():
         search_path = os.path.join(
             os.environ['CURRENCYHOME'], 'bin') \
             + os.pathsep \
-            + os.path.realpath(os.path.join(scriptDir, '..', 'bin'))
+            + os.path.realpath(os.path.join(scriptDir, '../..', 'bin'))
     else:
         search_path = os.path.realpath(
             os.path.join(scriptDir, '..', 'bin'))
